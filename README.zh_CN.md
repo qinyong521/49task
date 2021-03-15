@@ -20,7 +20,6 @@
 ```sh
 node index.js bilibili --cookies "b6*********4a581;"
 ```
-
 ### docker部署
 ```sh
 # 构建
